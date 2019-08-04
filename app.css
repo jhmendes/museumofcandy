@@ -64,6 +64,11 @@ body {
     transition: background 500ms;
 }
 
+footer {
+    text-align: center;
+    color: #fff;
+}
+
   /*MEDIA QUERIES*/
 
   @media(max-width: 1200px) {
